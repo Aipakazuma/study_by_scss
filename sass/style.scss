@@ -1,6 +1,8 @@
-h1 {
-  color: red;
-  &:hover {
-    color: blue;
+dl {
+  dt {
+    border: 1px solid #ff8c60;
+    &:hover {
+      border: 5px solid #f00;
+    }
   }
 }
